@@ -63,5 +63,5 @@ Exemplo de payload enviado:
   "luz": 70,
   "status": 1
 }
-[wokwi]([texto do link](https://endereco-do-link))
+[wokwi](https://wokwi.com/projects/455139108337644545))
 
